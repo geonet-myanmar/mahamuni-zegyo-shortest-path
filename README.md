@@ -102,17 +102,3 @@ The script will:
 OpenStreetMap data is used for geocoding and street routing.
 
 - OpenStreetMap: <https://www.openstreetmap.org/>
-
-## Files You May Want To Commit
-
-For a clean GitHub repo, typically commit:
-
-- `generate_route_map.py`
-- `mahamuni_to_zegyo_shortest_path.jpg`
-- `requirements.txt`
-- `README.md`
-
-You usually should not commit:
-
-- `.venv/`
-- `cache/`
